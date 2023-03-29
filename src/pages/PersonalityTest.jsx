@@ -1,4 +1,4 @@
-import { Box } from '@material-ui/core'
+import Box from '@mui/material/Box';
 import shadows from '@material-ui/core/styles/shadows'
 import { useEffect } from 'react'
 import styled from 'styled-components'

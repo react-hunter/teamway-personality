@@ -1,4 +1,4 @@
-import { Box } from '@material-ui/core'
+import Box from '@mui/material/Box';
 import { useQuestionContext } from '../../context/question'
 import colors from '../../theme/colors'
 import ProgressBar from '../common/ProgressBar'
